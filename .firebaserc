@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "tema17ej2": {
+      "hosting": {
+        "ejercicio": [
+          "tema17ej2"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "tema17ej2"
+  }
+}
